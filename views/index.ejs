@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Joke Generator</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="overlay">
+        <div class="card">
+            <h1>Joke Generator 😂</h1>
+            <!-- Display the joke from the server -->
+            <p class="joke-text"><%= joke %></p>
+            <!-- Button to fetch a new joke -->
+            <button class="button" onclick="window.location.reload();">New Joke</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; <%= new Date().getFullYear() %> Joke Generator. All rights reserved.</p>
+        <p>Created with laughter by <a href="https://mywebsite.com">Andrew Kim</a>.</p>
+    </footer>
+</body>
+</html>
