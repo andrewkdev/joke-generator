@@ -2,6 +2,10 @@
 
 A web application that brightens your day with random jokes. Built with Express and Node.js, it's a simple way to add some laughter to your routine.
 
+## Live Application
+
+The Joke Generator is live! Check it out here: [Joke Generator Live](https://joke-generator-1exq.onrender.com)
+
 ## Quick Start
 
 1. Clone the repository: git clone https://github.com/andrewkgithub/joke-generator.git
