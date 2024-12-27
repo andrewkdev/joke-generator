@@ -12,7 +12,7 @@ The Joke Generator is live! Check it out here: [Joke Generator Live](https://jok
 
 ## Quick Start
 
-1. Clone the repository: git clone https://github.com/andrewkgithub/joke-generator.git
+1. Clone the repository: git clone https://github.com/andrewkdev/joke-generator.git
 2. Navigate to the project directory: cd joke-generator
 3. Install dependencies: npm install
 4. Start the server: node index.js
